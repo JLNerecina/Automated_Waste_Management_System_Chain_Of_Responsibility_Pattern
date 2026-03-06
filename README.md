@@ -30,7 +30,7 @@ GeneralHandler.java            → Concrete handlers
 ```
 ## Class Diagram
 
-![image]()
+![image](https://github.com/JLNerecina/Automated_Waste_Management_System_Chain_Of_Responsibility_Pattern/blob/main/Chain%20of%20Responsibility%20UML%20Class%20Diagram.png)
 
 ## How It Works
 
